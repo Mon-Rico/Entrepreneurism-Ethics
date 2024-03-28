@@ -4,7 +4,7 @@ A:
 
 B:
 1. 
-2.
+2. A great way to teach students is to make it fun to learn. Each member has an interest in playing and creating games, and using it as a way to teach students how to code.
 3.
 4. How would this company function and how would it be funded if it is a startup? What are the requirements to be able to join and teach students to be able to learn how to code/run a game? In what ways would this company be more efficient, than let’s say learning from school or self-taught?
 
@@ -20,8 +20,8 @@ Key results
 - Played by 100 new users.
 - Generate $50 in revenue 
 
-2. 
-3.
+2.
+3. Potential ethical impacts: Depending on how much input teachers have in games that students are taught to create, issues may arise concerning credit and intellectual property.
 4.
 
 Item 2:
