@@ -4,7 +4,7 @@ A:
 
 B:
 1. 
-2. A great way to teach students is to make it fun to learn. Each member has an interest in playing and creating games, and using it as a way to teach students how to code.
+2. A great way to teach students is to make it fun to learn. Each member has an interest in playing and creating games, and using it as a way to teach students how to create their own. In an ever-changing industry with no shortage of new technology, it's important that students are equipped to adapt to these changes.
 3.
 4. How would this company function and how would it be funded if it is a startup? What are the requirements to be able to join and teach students to be able to learn how to code/run a game? In what ways would this company be more efficient, than let’s say learning from school or self-taught?
 
