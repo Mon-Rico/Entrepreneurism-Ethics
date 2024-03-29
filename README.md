@@ -1,5 +1,6 @@
 # Entrepreneurism-Ethics
-Item 1:
+Item 1: Ethical Business Plan
+
 A: Company name: (CKAM)
 
 B: Long term Vision
