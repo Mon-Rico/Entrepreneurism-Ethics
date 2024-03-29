@@ -14,7 +14,9 @@ C
 OKR1: Objectives
 Achieve basic understanding of what your goal is when making the game. Since it is for teaching students and not necessarily a school, we should not set a date in which it has to be published/released. 
 OKR2: Key results 
-Generate a game, and be prepared if it doesn’t work out how you wanted it - remember, it should be one of your first game! No need to make it “perfect.” increase game search via third parties, i.e steam. Played by 100 new users.Generate $50 in revenue 
+Generate a game, and be prepared if it doesn’t work out how you wanted it - remember, it should be one of your first game! No need to make it “perfect.” increase game search via third parties, i.e steam. Played by 100 new users. Generate $50 in revenue. 
+OKR3: Improve game development
+With the results of at least 50 other users played in games we are able to talk to them about 
 
 2.
 3. Potential ethical impacts: Depending on how much input teachers have in games that students are taught to create, issues may arise concerning credit and intellectual property.
