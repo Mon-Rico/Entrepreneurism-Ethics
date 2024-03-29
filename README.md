@@ -22,7 +22,7 @@ Generate a game, and be prepared if it doesn’t work out how you wanted it - re
 
 OKR3: Improve game development
 
-With the results of at least 50 other users played in games we are able to talk to them about 
+With the results of at least 50 other users played in games we are able to talk to them about what could improve in their games.
 
 2.
 3. Potential ethical impacts: Depending on how much input teachers have in games that students are taught to create, issues may arise concerning credit and intellectual property.
