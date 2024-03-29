@@ -2,7 +2,7 @@
 Item 1:
 A: Company name: (CKAM)
 
-B:
+B: Long term Vision
 1. Our goal is to help students have a fun time learning how to create games.
 2. A great way to teach students is to make it fun to learn. Each member has an interest in playing and creating games, and using it as a way to teach students how to create their own. In an ever-changing industry with no shortage of new technology, it's important that students are equipped to adapt to these changes.
 3.
