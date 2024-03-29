@@ -1,6 +1,6 @@
 # Entrepreneurism-Ethics
 Item 1:
-A:
+A: Company name: (CKAM)
 
 B:
 1. Our goal is to help students have a fun time learning how to create games.
