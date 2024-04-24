@@ -29,7 +29,7 @@ With the results of at least 50 other users played in games we are able to talk 
 4.
 
 Item 2:
-A.
+A. 
 
 B.
 
@@ -38,8 +38,11 @@ C.
 Item 3:
 A.
 
-B.
+B. (Board)
+1. We would like to have 
+2. 
+3. 
 
-Item 4:
+
 
 
